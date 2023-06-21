@@ -1,12 +1,12 @@
 import React from 'react';
 import { Login } from './screens/Login/index';
 import { StatusBar } from 'react-native';
-import { Pagina2 } from './screens/Pagina2';
+import { Nubank } from './screens/Nubank';
 //import { Pagina2 } from './screens/Pagina2';
 
 
 const App = () => {
-  return <Pagina2 />
+  return <Nubank />
 
 }
 

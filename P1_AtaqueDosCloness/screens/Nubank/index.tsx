@@ -12,7 +12,7 @@ import { StatusBar } from "expo-status-bar";
 
 
 
-export const Pagina2 = () => {
+export const Nubank = () => {
    return (
         <View style={styles.container}>
           <View style={styles.content}>
